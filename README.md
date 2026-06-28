@@ -57,3 +57,35 @@ WarehouseProject/
 │   └── main.cpp
 └── data/
     └── warehouse.json
+
+
+
+
+
+
+    💻 Compilation & Installation
+To compile and run this system on your local machine (Linux/macOS), use any modern standard compiler (g++ or clang++):
+# Clone the repository
+git clone [https://github.com/arad10203152/Warehouse-Management-System.git](https://github.com/arad10203152/Warehouse-Management-System.git)
+cd Warehouse-Management-System
+
+# Compile all source files
+g++ -std=c++11 source/*.cpp -o warehouse_app
+
+# Run the executable
+./warehouse_app
+
+🧑‍💻 Author
+•	Arad - Linux Lover | Code Enthusiast | Securing Systems
+•	GitHub: @arad10203152
+
+---
+
+### 📥 چطور آپلودش کنی؟
+همان‌طور که یاد گرفتی، ترمینالت را باز کن، برو داخل پوشه پروژه و این سه خط دستور را بزن تا این ریدمی خوشگل مستقیم بنشیند روی گیت‌هابت:
+
+```bash
+git add README.md
+git commit -m "Docs: Add comprehensive bilingual README"
+git push
+
