@@ -91,7 +91,16 @@ git push
 
 
 
+---
+## 🎥 دمو و ویدیوی معرفی پروژه
+برای مشاهده نحوه کارکرد برنامه و توضیحات بخش‌های مختلف، روی لینک زیر کلیک کنید:
 
+https://cdn.imgurl.ir/uploads/i679791_compressed_output.mp4
 
-attention: this project was written by the help of Gemini 
+## Built With
+* **C++11** - Core logic and Object-Oriented Programming (OOP)
+* **nlohmann/json** - Modern JSON library for data persistence
+* **macOS/Linux Terminal APIs**
+
+> **Acknowledgment:** This project was developed by Arad Mehrabi, with AI assistance (Google Gemini) utilized for code optimization, debugging, and terminal architecture refinement.
 
