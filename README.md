@@ -94,8 +94,11 @@ git push
 ---
 ## 🎥 دمو و ویدیوی معرفی پروژه
 برای مشاهده نحوه کارکرد برنامه و توضیحات بخش‌های مختلف، روی لینک زیر کلیک کنید:
-
+for iran IP:
 https://cdn.imgurl.ir/uploads/i679791_compressed_output.mp4
+international:
+https://drive.google.com/file/d/1iLcBy35d2FGhwIqxPyPMDW6CzPzi_Nxr/view?usp=drive_link
+
 
 ## Built With
 * **C++11** - Core logic and Object-Oriented Programming (OOP)
